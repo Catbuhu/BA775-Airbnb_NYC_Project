@@ -1,4 +1,4 @@
-# buhu1999
+# Sherry_Airbnb_NYC_Project
 BA775 Subject Of Questrom School Of Business, Boston University,
 Done under Prof. Mohammad Soltanieh Ha, as EDA for AIRBNB IN NYC Dated 20th Oct 2022.
 
